@@ -89,16 +89,16 @@ author:
   avatar           : "/assets/images/bio-parksurk-photo.jpg"
   bio              : "Dreaming one of startup-nomads in the future zero marginal society."
   location         : "Somewhere"
-  email            : parksurk@gmail.com
+  email            : "parksurk@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/parksurk
+  facebook         : "https://www.facebook.com/parksurk"
   foursquare       :
-  github           : https://github.com/parksurk
+  github           : "https://github.com/parksurk"
   gitlab           :
   google_plus      :
   keybase          :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : @parksurk
+  twitter          : "@parksurk"
   vine             :
   weibo            :
   xing             :
