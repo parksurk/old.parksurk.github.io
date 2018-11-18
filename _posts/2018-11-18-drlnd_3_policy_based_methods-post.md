@@ -183,7 +183,7 @@ Image(filename='./images/3-1-3-1_neural_network_encodes_action_probabilities.png
 
 
 
-![png](output_21_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_21_0.png)
 
 
 
@@ -214,7 +214,7 @@ Image(filename='./images/3-1-3-2_continuous_action_space_in_bipedal_walker.png')
 
 
 
-![png](output_24_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_24_0.png)
 
 
 
@@ -238,7 +238,7 @@ Image(filename='./images/3-1-3-3_continuous_action_space_in_mountain_car_continu
 
 
 
-![png](output_27_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_27_0.png)
 
 
 
@@ -968,7 +968,7 @@ Image(filename='./images/3-2-3-3_more_learn_connection_between_sl_with_rl.png')
 
 
 
-![png](output_96_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_96_0.png)
 
 
 
@@ -1289,7 +1289,7 @@ Image(filename='./images/3-2-6-6_reinforce_probility_density_function_correspodi
 
 
 
-![png](output_131_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_131_0.png)
 
 
 
@@ -1859,7 +1859,7 @@ Image(filename='./images/3-3-6-3_ppo_Lsur_approximates_reward_well_around_the_cu
 
 
 
-![png](output_191_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_191_0.png)
 
 
 
@@ -1890,7 +1890,7 @@ Image(filename='./images/3-3-6-5_ppo_clipped_surrogate_function_if_reward_functi
 
 
 
-![png](output_194_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_194_0.png)
 
 
 
@@ -1952,7 +1952,7 @@ Image(filename='./images/3-3-6-9_ppo_clipped_surrogate_function_gives_us_more_co
 
 
 
-![png](output_202_0.png)
+![png](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_202_0.png)
 
 
 
