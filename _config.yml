@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Surk Park (Antonio)"
-  avatar           : "/assets/images/parksurk_fb_bio.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/parksurk_fb_bio.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Dreaming one of startup-nomads in the future zero marginal society."
   location         : "Somewhere"
   email            : "parksurk@gmail.com"
