@@ -1,9 +1,8 @@
 ---
 title: "DRL Policy-Based Mothods"
-date: 2018-11-18 08:26:28 -0400
+date: 2018-11-18 17:45:28 -0400
 categories: Deep Reinfocement Learning
 layout: signle
-classes: wide
 ---
 
 
@@ -15,7 +14,7 @@ Image(filename='./images/3-0-0-0_opening.jpg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_0_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_0_0.jpeg)
 
 
 
@@ -55,7 +54,7 @@ Image(filename='./images/3-1-1-1_value_based_methods_with_discrete_state.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_6_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_6_0.jpeg)
 
 
 
@@ -68,7 +67,7 @@ Image(filename='./images/3-1-1-2_value_based_methods_with_continuous_state.jpeg'
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_7_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_7_0.jpeg)
 
 
 
@@ -84,7 +83,7 @@ Image(filename='./images/3-1-1-3_value_based_methods_with_continuous_state_using
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_9_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_9_0.jpeg)
 
 
 
@@ -97,7 +96,7 @@ Image(filename='./images/3-1-1-4_value_based_methods_estimate_optimal_value_func
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_10_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_10_0.jpeg)
 
 
 
@@ -115,7 +114,7 @@ Image(filename='./images/3-1-1-5_policy_based_methods.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_12_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_12_0.jpeg)
 
 
 
@@ -135,7 +134,7 @@ Image(filename='./images/3-1-2-1_policy_function_approximation_cartpole_has_two_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_15_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_15_0.jpeg)
 
 
 
@@ -148,7 +147,7 @@ Image(filename='./images/3-1-2-2_policy_function_approximation_neural_newtwork_r
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_16_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_16_0.jpeg)
 
 
 
@@ -165,7 +164,7 @@ Image(filename='./images/3-1-2-3_policy_function_approximation_agent_learns_how_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_18_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_18_0.jpeg)
 
 
 
@@ -268,7 +267,7 @@ Image(filename='./images/3-1-4-1_hill_climbiing_neural_network_input_and_output.
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_31_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_31_0.jpeg)
 
 
 
@@ -281,7 +280,7 @@ Image(filename='./images/3-1-4-2_hill_climbiing_neural_relation_between_j_theta.
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_32_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_32_0.jpeg)
 
 
 
@@ -299,7 +298,7 @@ Image(filename='./images/3-1-4-3_hill_climbiing_neural_gradient_ascent.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_34_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_34_0.jpeg)
 
 
 
@@ -319,7 +318,7 @@ Image(filename='./images/3-1-4-4_hill_climbiing_reach_maximum_value_of_function.
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_36_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_36_0.jpeg)
 
 
 
@@ -332,7 +331,7 @@ Image(filename='./images/3-1-4-5_hill_climbiing_reach_optimal_value.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_37_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_37_0.jpeg)
 
 
 
@@ -352,7 +351,7 @@ Image(filename='./images/3-1-5-1_hill_climbiing_pseudocode.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_40_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_40_0.jpeg)
 
 
 
@@ -383,7 +382,7 @@ Image(filename='./images/3-1-6-1_hill_climbiing_we_dont_know_j.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_43_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_43_0.jpeg)
 
 
 
@@ -396,7 +395,7 @@ Image(filename='./images/3-1-6-2_hill_climbiing_with_sochastic_policy_search_ret
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_44_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_44_0.jpeg)
 
 
 
@@ -409,7 +408,7 @@ Image(filename='./images/3-1-6-3_hill_climbiing_policy_is_somewhere_on_the_objec
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_45_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_45_0.jpeg)
 
 
 
@@ -422,7 +421,7 @@ Image(filename='./images/3-1-6-4_hill_climbiing_change_parameters_by_adding_gaus
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_46_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_46_0.jpeg)
 
 
 
@@ -435,7 +434,7 @@ Image(filename='./images/3-1-6-5_hill_climbiing_set_this_policy_to_new_best_poli
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_47_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_47_0.jpeg)
 
 
 
@@ -448,7 +447,7 @@ Image(filename='./images/3-1-6-6_hill_climbiing_iterate_until_top_of_the_hill.jp
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_48_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_48_0.jpeg)
 
 
 
@@ -464,7 +463,7 @@ Image(filename='./images/3-1-6-7_beyond_hill_climbiing_steepest_ascent.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_50_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_50_0.jpeg)
 
 
 
@@ -483,7 +482,7 @@ Image(filename='./images/3-1-6-8_beyond_hill_climbiing_simulated_annealing.jpeg'
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_52_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_52_0.jpeg)
 
 
 
@@ -496,7 +495,7 @@ Image(filename='./images/3-1-6-9_beyond_hill_climbiing_adaptive_noise_same_as_sa
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_53_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_53_0.jpeg)
 
 
 
@@ -509,7 +508,7 @@ Image(filename='./images/3-1-6-10_beyond_hill_climbiing_adaptive_noise_extend_se
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_54_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_54_0.jpeg)
 
 
 
@@ -531,7 +530,7 @@ Image(filename='./images/3-1-7-1_steepest_ascent_dont_use_usuful_imformation_fro
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_56_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_56_0.jpeg)
 
 
 
@@ -544,7 +543,7 @@ Image(filename='./images/3-1-7-2_cross_entropy_method_select_top_n_and_use_avera
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_57_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_57_0.jpeg)
 
 
 
@@ -557,7 +556,7 @@ Image(filename='./images/3-1-7-3_evolution_strategies_the_best_policy_is_weighte
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_58_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_58_0.jpeg)
 
 
 
@@ -574,7 +573,7 @@ Image(filename='./images/3-1-8-1_policy_based_method_why.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_60_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_60_0.jpeg)
 
 
 
@@ -587,7 +586,7 @@ Image(filename='./images/3-1-8-2_policy_based_method_simplicity.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_61_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_61_0.jpeg)
 
 
 
@@ -600,7 +599,7 @@ Image(filename='./images/3-1-8-3_policy_based_method_policy_look_like.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_62_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_62_0.jpeg)
 
 
 
@@ -621,7 +620,7 @@ Image(filename='./images/3-1-8-4_policy_based_method_stochastic_plicies.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_64_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_64_0.jpeg)
 
 
 
@@ -636,7 +635,7 @@ Image(filename='./images/3-1-8-5_value_based_method_e-greedy_is_a_hack.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_66_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_66_0.jpeg)
 
 
 
@@ -651,7 +650,7 @@ Image(filename='./images/3-1-8-6_policy_based_method_aliased_states.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_68_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_68_0.jpeg)
 
 
 
@@ -664,7 +663,7 @@ Image(filename='./images/3-1-8-7_policy_based_method_aliased_states_if_using_val
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_69_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_69_0.jpeg)
 
 
 
@@ -677,7 +676,7 @@ Image(filename='./images/3-1-8-8_policy_based_method_aliased_states_if_using_val
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_70_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_70_0.jpeg)
 
 
 
@@ -691,7 +690,7 @@ Image(filename='./images/3-1-8-9_policy_based_method_aliased_states_if_using_pol
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_71_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_71_0.jpeg)
 
 
 
@@ -704,7 +703,7 @@ Image(filename='./images/3-1-8-10_policy_based_method_discret_action_space.jpeg'
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_72_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_72_0.jpeg)
 
 
 
@@ -717,7 +716,7 @@ Image(filename='./images/3-1-8-11_policy_based_method_continuous_action_space.jp
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_73_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_73_0.jpeg)
 
 
 
@@ -730,7 +729,7 @@ Image(filename='./images/3-1-8-12_policy_based_method_high-dimensional_continuou
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_74_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_74_0.jpeg)
 
 
 
@@ -749,7 +748,7 @@ Image(filename='./images/3-2-1-1_policy_gradient_methods_is_subset_of_policy_bas
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_77_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_77_0.jpeg)
 
 
 
@@ -762,7 +761,7 @@ Image(filename='./images/3-2-1-2_policy_gradient_methods_chicken_cross_the_road.
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_78_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_78_0.jpeg)
 
 
 
@@ -775,7 +774,7 @@ Image(filename='./images/3-2-1-3_policy_gradient_methods_case_of_four_possible_a
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_79_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_79_0.jpeg)
 
 
 
@@ -788,7 +787,7 @@ Image(filename='./images/3-2-1-4_policy_gradient_methods_possibly_cnn_is_best.jp
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_80_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_80_0.jpeg)
 
 
 
@@ -801,7 +800,7 @@ Image(filename='./images/3-2-1-5_policy_gradient_methods_reward_only_delivered_a
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_81_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_81_0.jpeg)
 
 
 
@@ -818,7 +817,7 @@ Image(filename='./images/3-2-2-1_pg_big_picture_case_of_win.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_83_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_83_0.jpeg)
 
 
 
@@ -831,7 +830,7 @@ Image(filename='./images/3-2-2-2_pg_big_picture_case_of_win_getting_action_posib
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_84_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_84_0.jpeg)
 
 
 
@@ -844,7 +843,7 @@ Image(filename='./images/3-2-2-3_pg_big_picture_case_of_win_change_parameters_a_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_85_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_85_0.jpeg)
 
 
 
@@ -857,7 +856,7 @@ Image(filename='./images/3-2-2-4_pg_big_picture_case_of_win_getting_action_posib
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_86_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_86_0.jpeg)
 
 
 
@@ -870,7 +869,7 @@ Image(filename='./images/3-2-2-5_pg_big_picture_case_of_win_change_parameters_a_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_87_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_87_0.jpeg)
 
 
 
@@ -883,7 +882,7 @@ Image(filename='./images/3-2-2-6_pg_big_picture_case_of_lost.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_88_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_88_0.jpeg)
 
 
 
@@ -896,7 +895,7 @@ Image(filename='./images/3-2-2-7_pg_big_picture_case_of_lost_getting_action_posi
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_89_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_89_0.jpeg)
 
 
 
@@ -909,7 +908,7 @@ Image(filename='./images/3-2-2-8_pg_big_picture_case_of_lost_change_parameters_a
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_90_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_90_0.jpeg)
 
 
 
@@ -922,7 +921,7 @@ Image(filename='./images/3-2-2-9_pg_big_picture_pseudocode.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_91_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_91_0.jpeg)
 
 
 
@@ -939,7 +938,7 @@ Image(filename='./images/3-2-3-1_pg_is_similar_to_supervised_learning.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_93_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_93_0.jpeg)
 
 
 
@@ -957,7 +956,7 @@ Image(filename='./images/3-2-3-2_pg_is_similar_to_sl_mutiple_conflicting_opinion
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_95_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_95_0.jpeg)
 
 
 
@@ -997,7 +996,7 @@ Image(filename='./images/3-2-4-1_how_pg_work_trajectory_is_state_action_sequence
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_100_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_100_0.jpeg)
 
 
 
@@ -1014,7 +1013,7 @@ Image(filename='./images/3-2-4-2_how_pg_work_trajectory_does_not_keep_track_rewa
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_102_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_102_0.jpeg)
 
 
 
@@ -1030,7 +1029,7 @@ Image(filename='./images/3-2-4-3_how_pg_work_deep_dive.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_104_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_104_0.jpeg)
 
 
 
@@ -1061,7 +1060,7 @@ Image(filename='./images/3-2-5-1_reinforce_check_our_goal_first.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_107_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_107_0.jpeg)
 
 
 
@@ -1076,7 +1075,7 @@ Image(filename='./images/3-2-5-2_reinforce_one_way_to_achieve_this_goal_is_gradi
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_109_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_109_0.jpeg)
 
 
 
@@ -1091,7 +1090,7 @@ Image(filename='./images/3-2-5-3_reinforce_ga_vs_gd.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_111_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_111_0.jpeg)
 
 
 
@@ -1106,7 +1105,7 @@ Image(filename='./images/3-2-5-4_reinforce_calculating_gradient_is_very_expensiv
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_113_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_113_0.jpeg)
 
 
 
@@ -1122,7 +1121,7 @@ Image(filename='./images/3-2-5-5_reinforce_estimate_gradient_and_consider_a_few_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_115_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_115_0.jpeg)
 
 
 
@@ -1144,7 +1143,7 @@ Image(filename='./images/3-2-5-6_reinforce_what_if_m_equals_one_trajectory.jpeg'
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_117_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_117_0.jpeg)
 
 
 
@@ -1157,7 +1156,7 @@ Image(filename='./images/3-2-5-7_reinforce_detailed_meaning_when_one_trajectory.
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_118_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_118_0.jpeg)
 
 
 
@@ -1170,7 +1169,7 @@ Image(filename='./images/3-2-5-8_reinforce_detailed_meaning_direction_of_steepes
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_119_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_119_0.jpeg)
 
 
 
@@ -1183,7 +1182,7 @@ Image(filename='./images/3-2-5-9_reinforce_detailed_meaning_when_multiple_trajec
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_120_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_120_0.jpeg)
 
 
 
@@ -1196,7 +1195,7 @@ Image(filename='./images/3-2-5-10_reinforce_pseudocode.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_121_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_121_0.jpeg)
 
 
 
@@ -1213,7 +1212,7 @@ Image(filename='./images/3-2-6-1_reinforce_derivation_of_equation_that_aproximat
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_123_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_123_0.jpeg)
 
 
 
@@ -1226,7 +1225,7 @@ Image(filename='./images/3-2-6-2_reinforce_derivation_of_equation_likelihood_rat
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_124_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_124_0.jpeg)
 
 
 
@@ -1244,7 +1243,7 @@ Image(filename='./images/3-2-6-3_reinforce_equation_likelihood_ratio_policy_grad
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_126_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_126_0.jpeg)
 
 
 
@@ -1257,7 +1256,7 @@ Image(filename='./images/3-2-6-4_reinforce_derivation_of_equation_sample_based_e
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_127_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_127_0.jpeg)
 
 
 
@@ -1273,7 +1272,7 @@ Image(filename='./images/3-2-6-5_reinforce_derivation_of_equation_simplify.jpeg'
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_129_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_129_0.jpeg)
 
 
 
@@ -1325,7 +1324,7 @@ Image(filename='./images/3-3-1-1_beyond_reinforce_review_reinforce.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_135_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_135_0.jpeg)
 
 
 
@@ -1346,7 +1345,7 @@ Image(filename='./images/3-3-2-1_noise_reduction_sampled_trajectories_do_not_con
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_138_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_138_0.jpeg)
 
 
 
@@ -1359,7 +1358,7 @@ Image(filename='./images/3-3-2-2_noise_reduction_easiet_option_to_reduce_noise_i
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_139_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_139_0.jpeg)
 
 
 
@@ -1372,7 +1371,7 @@ Image(filename='./images/3-3-2-3_noise_reduction_another_option_is_reward_normal
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_140_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_140_0.jpeg)
 
 
 
@@ -1394,7 +1393,7 @@ Image(filename='./images/3-3-3-1_credit_assignment_take_closer_look_at_the_total
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_143_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_143_0.jpeg)
 
 
 
@@ -1407,7 +1406,7 @@ Image(filename='./images/3-3-3-2_credit_assignment_past_rewards_do_not_affect_to
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_144_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_144_0.jpeg)
 
 
 
@@ -1420,7 +1419,7 @@ Image(filename='./images/3-3-3-3_credit_assignment_simply_have_the_future_reward
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_145_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_145_0.jpeg)
 
 
 
@@ -1488,7 +1487,7 @@ Image(filename='./images/3-3-4-1_importance_sampling_data_recycling.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_153_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_153_0.jpeg)
 
 
 
@@ -1501,7 +1500,7 @@ Image(filename='./images/3-3-4-2_importance_sampling_generate_trajectory_with_po
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_154_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_154_0.jpeg)
 
 
 
@@ -1514,7 +1513,7 @@ Image(filename='./images/3-3-4-3_importance_sampling_compute_policy_gradient_and
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_155_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_155_0.jpeg)
 
 
 
@@ -1527,7 +1526,7 @@ Image(filename='./images/3-3-4-4_importance_sampling_throw_away_just_generated_t
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_156_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_156_0.jpeg)
 
 
 
@@ -1544,7 +1543,7 @@ Image(filename='./images/3-3-4-5_importance_sampling_recycle_the_old_trajectorie
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_158_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_158_0.jpeg)
 
 
 
@@ -1559,7 +1558,7 @@ Image(filename='./images/3-3-4-6_importance_sampling_reuse_the_recycled_trajecto
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_160_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_160_0.jpeg)
 
 
 
@@ -1572,7 +1571,7 @@ Image(filename='./images/3-3-4-7_importance_sampling_generated_using_the_policy_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_161_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_161_0.jpeg)
 
 
 
@@ -1585,7 +1584,7 @@ Image(filename='./images/3-3-4-8_importance_sampling_we_want_compute_the_average
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_162_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_162_0.jpeg)
 
 
 
@@ -1600,7 +1599,7 @@ Image(filename='./images/3-3-4-9_importance_sampling_weighted_by_a_probability_o
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_164_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_164_0.jpeg)
 
 
 
@@ -1615,7 +1614,7 @@ Image(filename='./images/3-3-4-10_multiplying_and_dividing_by_the_same_number_P(
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_166_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_166_0.jpeg)
 
 
 
@@ -1628,7 +1627,7 @@ Image(filename='./images/3-3-4-11_importance_sampling_rearrange_the_terms.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_167_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_167_0.jpeg)
 
 
 
@@ -1641,7 +1640,7 @@ Image(filename='./images/3-3-4-12_importance_sampling_under_the_old_policy_and_e
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_168_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_168_0.jpeg)
 
 
 
@@ -1657,7 +1656,7 @@ Image(filename='./images/3-3-4-13_importance_sampling_re-weighting_factor.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_170_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_170_0.jpeg)
 
 
 
@@ -1678,7 +1677,7 @@ Image(filename='./images/3-3-5-1_ppo_surrogate_function.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_173_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_173_0.jpeg)
 
 
 
@@ -1691,7 +1690,7 @@ Image(filename='./images/3-3-5-2_ppo_surrogate_function_re-weighining_pg_which_i
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_174_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_174_0.jpeg)
 
 
 
@@ -1704,7 +1703,7 @@ Image(filename='./images/3-3-5-3_ppo_surrogate_function_times_a_re-weighting_fac
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_175_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_175_0.jpeg)
 
 
 
@@ -1717,7 +1716,7 @@ Image(filename='./images/3-3-5-4_ppo_surrogate_function_rearrange_equation.jpeg'
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_176_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_176_0.jpeg)
 
 
 
@@ -1730,7 +1729,7 @@ Image(filename='./images/3-3-5-5_ppo_surrogate_function_re-weighting_factor_is_u
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_177_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_177_0.jpeg)
 
 
 
@@ -1743,7 +1742,7 @@ Image(filename='./images/3-3-5-6_ppo_surrogate_function_rearrange_equation_again
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_178_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_178_0.jpeg)
 
 
 
@@ -1756,7 +1755,7 @@ Image(filename='./images/3-3-5-7_ppo_surrogate_function_cancel_some_terms.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_179_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_179_0.jpeg)
 
 
 
@@ -1771,7 +1770,7 @@ Image(filename='./images/3-3-5-8_ppo_surrogate_function_equation_simplified.jpeg
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_181_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_181_0.jpeg)
 
 
 
@@ -1786,7 +1785,7 @@ Image(filename='./images/3-3-5-9_ppo_surrogate_function_equation_rearranged.jpeg
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_183_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_183_0.jpeg)
 
 
 
@@ -1799,7 +1798,7 @@ Image(filename='./images/3-3-5-10_ppo_surrogate_function_now_we_have_the_approxi
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_184_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_184_0.jpeg)
 
 
 
@@ -1812,7 +1811,7 @@ Image(filename='./images/3-3-5-11_ppo_surrogate_function_new_gradient.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_185_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_185_0.jpeg)
 
 
 
@@ -1831,7 +1830,7 @@ Image(filename='./images/3-3-6-1_ppo_clipping_policy_updates.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_188_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_188_0.jpeg)
 
 
 
@@ -1844,7 +1843,7 @@ Image(filename='./images/3-3-6-2_ppo_the_policy_or_reward_off.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_189_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_189_0.jpeg)
 
 
 
@@ -1879,7 +1878,7 @@ Image(filename='./images/3-3-6-4_ppo_clipped_surrogate_function.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_193_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_193_0.jpeg)
 
 
 
@@ -1909,7 +1908,7 @@ Image(filename='./images/3-3-6-6_ppo_clipped_surrogate_function_original surroga
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_196_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_196_0.jpeg)
 
 
 
@@ -1924,7 +1923,7 @@ Image(filename='./images/3-3-6-7_ppo_clipped_surrogate_function_apply_the_clip_f
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_198_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_198_0.jpeg)
 
 
 
@@ -1939,7 +1938,7 @@ Image(filename='./images/3-3-6-8_ppo_clipped_surrogate_function_we_only_want_to_
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_200_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_200_0.jpeg)
 
 
 
@@ -1969,7 +1968,7 @@ Image(filename='./images/3-3-6-10_ppo_summary.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_204_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_204_0.jpeg)
 
 
 
@@ -1984,4 +1983,4 @@ Image(filename='./images/3-3-6-11_ppo_paper.jpeg')
 
 
 
-![jpeg](2018-11-18-drlnd_3_policy_based_methods-post/output_206_0.jpeg)
+![jpeg](/assets/images/2018-11-18-drlnd_3_policy_based_methods-post/output_206_0.jpeg)
