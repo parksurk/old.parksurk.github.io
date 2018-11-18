@@ -2,8 +2,6 @@
 title: "DRL Policy-Based Mothods"
 date: 2018-11-18 17:45:28 -0400
 categories: Deep Reinfocement Learning
-layout: signle
-classes: wide
 ---
 
 
