@@ -1,0 +1,21 @@
+remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
+
+title:             Everyday Just a little bit
+email:             parksurk@gmail.com
+description:       A Blog by Antonio Park
+author:            박석(Antonio Park)
+baseurl:           "/startbootstrap-clean-blog-jekyll"
+url:               "https://parksurk.github.io"
+
+# Social Profiles
+twitter_username:  parksurk
+github_username:   parksurk
+facebook_username: parksurk
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
