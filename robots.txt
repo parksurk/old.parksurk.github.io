@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://parksurk.github.io/sitemap.xml
