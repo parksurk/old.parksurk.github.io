@@ -42,7 +42,7 @@ MTL (Multi-Task Learning)을 사용하면 모델이 다른 작업간에도 공�
 
 \- _출처 : Cheezburger.com_
 
-세계 기록 (2018 년 11 월) 타이틀 보유자 인 우사인 볼트 (Usain Bolt, 1919 년 올림픽 금메달리스트 🥇) 사례를 살펴봅시다. 실제로 우사인의 경우 훈련시 가장 중요한 부분은 달리기(Running)이 아니라 다른 운동들입니다. 예를 들어, weights, box jumps, bounds 등 입니다.이 운동들은 달리기와 직접적인 관련이 없지만 궁극적인 목표 인 단거리달리기(Sprint)에서 자신의 근력과 폭발력을 향상시킵니다.
+세계 기록 (2018.11 현재) 타이틀 보유자 인 우사인 볼트 (Usain Bolt, 1919 출생, 올림픽 금메달리스트 🥇) 사례를 살펴봅시다. 실제로 우사인의 경우 훈련시 가장 중요한 부분은 달리기(Running)이 아니라 다른 운동들입니다. 예를 들어, weights, box jumps, bounds 등 입니다.이 운동들은 달리기와 직접적인 관련이 없지만 궁극적인 목표 인 단거리달리기(Sprint)에서 자신의 근력과 폭발력을 향상시킵니다.
 
 > "다중 작업 학습은 관련 작업의 학습 Signal에 포함된 도메인 정보를 Inductive Bias으로 사용하여 Generalization를 향상시키는 Inductive Transfer하기 위한 하나의 접근 방법입니다. Shared Representation을 사용하면서 병렬로 작업을 학습하여 이를 수행합니다. 각 과제에 대해 배운 것이 다른 과제를 더 잘 학습하는 데 도움이 될 수 있습니다. "R. Caruana [참조1](#ref1)
 
@@ -297,7 +297,7 @@ class MultiTaskTrainer():
 이 블로그 포스트에서는 커버링하지 않았지만... MTL 모델을 Train하는 데 사용할 수있는 많은 기술이 있습니다. 이와 관련된 멏가지 Reference를 소개합니다. :
 
 *   **Successive regularization** MTL 모델을 Train 할 때 발생하는 주요 문제 중 하나는 **catastrophic forgetting** 입니다. 모델이 갑자기 이전에 배운 작업과 관련된 지식의 일부를 새 작업이 학습할 때 잊어 버리는 것입니다. 이 현상은 여러 작업이 순차적으로 훈련 될 때 특히 반복됩니다. Hashimoto et al. [참조6](#ref6) 이 Successive regularization 를 도입했씁니다. : loss에 대해 L2 패널티를 추가하여 parameter update가 이전 epoch의 parameter에서 너무 멀어지는 것을 방지합니다. 이 부분에서 MTL 트레이너는 parameter update 후 작업을 switch하지 않고 해당 작업에 대해서 전체 Train Dataset을 처리합니다.
-*   **Multi-Task as Question Answering** : 최근, McCann et al. [참조7](#ref7) 은 Multi-Task Learning을 수행하기위한 새로운 패러다임을 소개했습니다. 각 작업은 질의 응답 작업으로 재구성되며 단일 통일 모델 ( [**MQAN**][] ) [**은이**][] 작업에서 고려되는 10 가지 다른 작업에 대해 공동으로 훈련됩니다. MQAN은 WikiSQL의 의미 론적 파싱 작업과 같은 몇 가지 작업에서 최첨단 결과를 얻습니다. 보다 일반적으로,이 연구는 단일 과제 학습의 한계와 다중 과제 학습과 전이 학습의 관계에 대해 논의합니다.
+*   **Multi-Task as Question Answering** : 최근, McCann et al. [참조7](#ref7) 은 Multi-Task Learning을 수행하기위한 새로운 패러다임을 소개했습니다. 각 작업은 질의 응답 작업으로 재구성되며 단일 통일 모델 ( [MQAN][] )  작업에서 고려되는 10 가지 다른 작업에 대해 공동으로 훈련됩니다. MQAN은 WikiSQL의 의미 론적 파싱 작업과 같은 몇 가지 작업에서 최첨단 결과를 얻습니다. 보다 일반적으로,이 연구는 단일 과제 학습의 한계와 다중 과제 학습과 전이 학습의 관계에 대해 논의합니다.
 
 ### 의미 론적 과제에서의 최첨단 기술 개선 : HMTL (Hierarchical Multi-Task Learning Model)
 
@@ -306,10 +306,6 @@ class MultiTaskTrainer():
 저의 [논문][] 이 AAAI 2019에서 발표 될 예정인데...제가 제안한 방법은 **hierarchical way** 입니다.
 
 보다 정확하게 말하자면, 우리는 서로 다른 테스크 간의 언어 계층 구조를 반영하기 위해 선택된 **semantic tasks** 집합 사이 에 **계층 구조** 를 만듭니다 (Hashimoto et al. [참조6](#ref6) )
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*CEYglzD7tsDhc1_fvjW57A.png?q=20)
-
-![](https://cdn-images-1.medium.com/max/1200/1*CEYglzD7tsDhc1_fvjW57A.png)
 
 ![](https://cdn-images-1.medium.com/max/1200/1*CEYglzD7tsDhc1_fvjW57A.png)
 
@@ -351,13 +347,13 @@ class MultiTaskTrainer():
 [4] Conneau, D. Kiela, H. Schwenk, L. Barrault와 A. Bordes, [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data][] , 2017
 
 ##### ref5
-[5] S, Subramanian, A. Trischler, Y. Bengio와 CJ Pal , 2018 년 [Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning][]
+[5] S, Subramanian, A. Trischler, Y. Bengio와 CJ Pal , 2018 [Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning][]
 
 ##### ref6
-[6] K. 하시 모토, C. Xiong, Y. Tsuruoka and R. Socher, [JA Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks][] , 2017
+[6] K.Hashimoto, C. Xiong, Y. Tsuruoka and R. Socher, [JA Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks][] , 2017
 
 ##### ref7
-[7] B. 맥켄, NS Keskar, C. 슝, R. Socher, [The Natural Language Decathlon: Multitask Learning as Question Answering][] 2018
+[7] B. McCann, N. S. Keskar, C. Xiong, R. Socher, [The Natural Language Decathlon: Multitask Learning as Question Answering][] 2018
 
 ##### ref8
 [8] A. Conneau, D. Kiela, [SentEval][] : [An Evaluation Toolkit for Universal Sentence Representations][] 2018
