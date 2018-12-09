@@ -11,15 +11,12 @@ from IPython.display import Image
 Image(filename='./images/1-0-0-1_opening.jpg')
 ```
 
+![jpeg](/assets/images/2018-12-11-drlnd_1-3_dynamic_programming-post/output_0_0.jpeg)
+
 # Lesson 1-4: Monte Carlo Methods
 
 ## 1-4-1 : Gridworld Example
 
-
-```python
-from IPython.display import Image
-Image(filename='./images/1-4-1-1_gridworld_example_how_to_choose_action_without_reward.png')
-```
 
 
 ```python
