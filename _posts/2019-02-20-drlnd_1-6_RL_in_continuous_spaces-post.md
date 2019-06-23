@@ -199,8 +199,6 @@ Which of the following state or action spaces can be encoded using discrete repr
 4. Board positions for a 9x9 Go game
 5. Keys to play on a musical keyboard
 
-- answer : 1, 4, 5
-
 ## 1-6-3. Discretization
 
 
