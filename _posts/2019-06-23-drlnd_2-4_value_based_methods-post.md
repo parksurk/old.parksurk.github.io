@@ -1,4 +1,9 @@
 
+---
+title: "DRL Value-based Methods - DQN"
+date: 2019-06-23 00:00:01 -0400
+categories: Deep Reinfocement Learning
+---
 
 ```python
 from IPython.display import Image

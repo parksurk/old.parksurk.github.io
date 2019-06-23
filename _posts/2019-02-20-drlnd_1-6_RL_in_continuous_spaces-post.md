@@ -1,4 +1,8 @@
-
+---
+title: "RL in Continuous Spaces"
+date: 2019-02-20 00:00:01 -0400
+categories: Deep Reinfocement Learning
+---
 
 ```python
 from IPython.display import Image
